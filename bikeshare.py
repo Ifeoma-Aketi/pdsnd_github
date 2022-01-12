@@ -219,7 +219,7 @@ def display_data(df):
     """
     Ask user if they would like to see the datasets displayed in 5 rows.
     Ask if they will like to see 5 more rows.
-    Continue asking till no.
+    Ask till reply is no.
     """
     start_point = 5
     rows_start = 0
