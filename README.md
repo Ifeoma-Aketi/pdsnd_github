@@ -10,7 +10,9 @@ Github Project - Forking a repo.
 The project is about forking a repository, cloning it, making commits, pushing and merging the local repository with the remote.
 
 ### Files used
-Udacity 
+Udacity
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+It's important to give proper credit.
+Here is the list of links visited:
+https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/#:~:text=You%20can%20fork%20any%20repo,any%20repo%20on%20github.com.
