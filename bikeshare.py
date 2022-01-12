@@ -84,8 +84,6 @@ month_map = {1: 'january', 2:'february', 3: 'march', 4: 'april', 5: 'may', 6: 'j
 
 week_map = { 0: 'monday', 1: 'tuesday', 2:  'wednesday', 3:  'thursday', 4:  'friday', 5:  'saturday', 6:  'sunday' }
 
-
-
       #print(type(city))
       df = pd.read_csv(city_data[city], index_col=[0])
 
