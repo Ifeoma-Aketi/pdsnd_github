@@ -7,7 +7,7 @@ Project created on the 12th of January, 2022.
 Github Project - Forking a repo.
 
 ### Description
-Describe what your project is about and what it does
+The project is about forking a repository, cloning it, making commits, pushing and merging the local repository with the remote.
 
 ### Files used
 Include the files used
