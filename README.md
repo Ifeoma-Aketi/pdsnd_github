@@ -10,7 +10,7 @@ Github Project - Forking a repo.
 The project is about forking a repository, cloning it, making commits, pushing and merging the local repository with the remote.
 
 ### Files used
-Include the files used
+Udacity 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
